@@ -17,7 +17,8 @@
 
 ## 🚀 Demo
 
-Coming Soon on Hugging Face Spaces or Dify.ai
+[![Hugging Face Spaces](https://img.shields.io/badge/🚀%20Live-Buddy--ChatBot-blue?logo=huggingface)](https://huggingface.co/spaces/Learnerbegginer/Buddy-ChatBot)
+
 
 ---
 
